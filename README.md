@@ -14,7 +14,7 @@ OSAB was created as an open-source solution to climate change. We are told every
 
 ## 🤝 How to Contribute
 
-Wether you are a student who wants help build the next big thing or an adult how would like to lend their expertice, all you have to do is fill out the the form [here](http://osab.xyz/join-us/) and we will contact you!
+Whether you are a student who wants help build the next big thing or an adult how would like to lend their expertice, all you have to do is fill out the the form [here](http://osab.xyz/join-us/) and we will contact you!
 
 ## 👀 Code of Conduct
 

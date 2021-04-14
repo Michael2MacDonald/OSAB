@@ -18,7 +18,7 @@ Read this to Know how to Contribute!
 
 ## 👀 Code of Conduct
 
-Read our Code of Conduct here!
+Read our Code of Conduct [here!](https://github.com/Michael2MacDonald/OSAB/blob/main/CODE_OF_CONDUCT.md)
 
 ## 👇 Support us Here
 

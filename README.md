@@ -26,3 +26,4 @@ OSAB is a BIG project and we need ***your*** support if we are going to be succe
 
 
 ### Learn More at [our website!](http://osab.xyz/)
+#### Email Us: osab.project@gmail.com

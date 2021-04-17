@@ -26,5 +26,5 @@ OSAB is a BIG project and we need ***your*** support if we are going to be succe
 [Our GoFundMe Page!](https://www.gofundme.com/f/open-source-autonomous-scientific-boat-osab)
 
 
-### Learn More at our [website](http://osab.xyz/)!
-#### Email Us: osab.project@gmail.com
+### 🌐 Learn More at our [website](http://osab.xyz/)!
+#### 📫 Email Us: osab.project@gmail.com

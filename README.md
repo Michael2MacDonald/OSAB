@@ -4,7 +4,8 @@
 
 OSAB is an open-source, solar powered, autonomous, anti-climate change boat, being built by a team of student hobbyists and tinkerers around the world!
 
-![image](https://user-images.githubusercontent.com/74977312/114660376-d5fc8380-9d12-11eb-9d1d-f0670b9246d4.png)
+![image](https://user-images.githubusercontent.com/34051815/117859170-8478e300-b243-11eb-9cbb-24631ce50892.PNG)
+
 
 **Why?** For science of course! The data gathered by OSAB includes lux / UV / IR / Visible light, water temp, air temp and humidity, inertial measurements and magnetic fields, water turbidity, water pH, water salinity, air pressure, microphone (bioacoustics). This data will help us better understand ocean environments and let us create a better solution to **fight climate change!**
 

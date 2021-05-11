@@ -8,7 +8,7 @@ Hey, I am a high school student from Croatia, my name is Ivan but most know me a
 
 ### Feynman - CAD Designer.
 
-### Doğu Taş - oftware/Firmware Dev, Public Relations.
+### Doğu Taş - Software/Firmware Dev, Public Relations.
 Hi! I am a 21 year old physics student living in turkey. I will be working on firmware and software on this project.
 twitter.com/dogu_tas
 Instagram: tas_dogu

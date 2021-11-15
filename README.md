@@ -1,3 +1,5 @@
+# This repo is outdated! Please go to [this](https://github.com/Open-Source-Autonomous-Boat/) organization that replaces this repo!
+
 # ⛵ Open Source Autonomous Boat (OSAB) 
 
 ## 🤔 What is OSAB?
